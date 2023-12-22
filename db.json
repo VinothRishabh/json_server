@@ -1,14 +1,14 @@
 {
   "ios": {
     "new-version": "0.20.3",
-    "store-url": "https://apps.apple.com/",
+    "store-url": "https://apps.apple.com/5day",
     "title": "Update available",
     "release-notes": "iOS release notes shall be placed here",
     "force-update": true
   },
   "android": {
     "new-version": "0.20.3",
-    "store-url": "https://play.google.com/",
+    "store-url": "https://play.google.com/5day",
     "title": "Update available",
     "release-notes": "Android release notes shall be placed here",
     "force-update": false
