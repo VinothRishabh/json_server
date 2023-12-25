@@ -4,7 +4,7 @@
     "store-url": "https://apps.apple.com/5day",
     "title": "Update available!",
     "release-notes": "Get ready for a transformative experience! Our latest update brings a wave of innovation, from sleek design enhancements to powerful new features. Dive in to discover a more intuitive, faster, and exciting version. Don't miss out—update now and be at the forefront of innovation!",
-    "force-update": true
+    "force-update": false
   },
   "android": {
     "new-version": "0.20.3",
